@@ -12,3 +12,7 @@
 
 * git branch new_branch_name
 
+Чтобы перейти на другую ветку, используем команду: 
+
+* git checkout branch_name
+
